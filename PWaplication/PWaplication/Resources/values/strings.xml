@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">PWaplication</string>
+    <string name="str_registration">Registration</string>
+    <string name="str_login">Sign in</string>
+    <string name="str_logout">No account yet? Create one</string>
+    <string name="str_loading">Loading..</string>
+    <string name="str_error">Error</string>
+    <string name="btn_ok">Ok</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="balance_format">%s ₽</string>
+    <string name="pay_dialog_title">Enter sum</string>
+    <string name="pay_activity_title">Ennter user name</string>
+    <string name="str_search">Search..</string>
+    <string name="str_not_found">User not found</string>
+    <string name="str_default_search">Enter the name or part of the name to search</string>
+    <string name="pay_success">Operation is suceess</string>
+    <string name="repeat_dialog_title">Do you want repeat</string>
+    <string name="repeat_msg_format">Recipient: %s\nSum:</string>
+    <string name="pay_success_format" formatted ="false">Recipient: %s\nSum: %s\nBalance: %s</string>
+    <string name ="hint_user">
+      <font size="15">Enter user name</font>
+    </string>
+    <string name="hint_email">
+      <font size="15">Enter email</font>
+    </string>
+    <string name ="hint_password">
+      <font size="15">Enter password</font>
+    </string>
+    <string name ="hint_rpassword">
+      <font size="15">Confirm password</font>
+    </string>
+    <string name="Error_login_lenght">at least 3 characters</string>
+    <string name="Error_login_pass">do not match</string>
+    <string name="Error_login_email">enter a valid email address</string>
+</resources>

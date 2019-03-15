@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2c3e50</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#3498db</color>
+    <color name="loginColorHint">#8ab6d4</color>
+    <color name="btn_login_pressed">#63c6ff</color>
+    <color name="btn_login_inactive">#7691a3</color>
+    <color name="positiv_amount">#49e350</color>
+    <color name="negativ_amount">#ff0000</color>
+</resources>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:state_enabled="false">
+    <shape>
+      <solid
+          android:color="@color/btn_login_inactive"/>
+      <stroke
+          android:width="2dp"
+          android:color="@color/btn_login_inactive"/>
+      <corners
+          android:radius="6dp"/>
+      <padding
+          android:bottom="10dp"
+          android:left="10dp"
+          android:right="10dp"
+          android:top="10dp"/>
+    </shape>
+
+  </item>
+  <item android:state_pressed="true">
+    <shape>
+      <solid
+          android:color="@color/btn_login_pressed"/>
+      <stroke
+          android:width="2dp"
+          android:color="@color/btn_login_pressed"/>
+      <corners
+          android:radius="6dp"/>
+      <padding
+          android:bottom="10dp"
+          android:left="10dp"
+          android:right="10dp"
+          android:top="10dp"/>
+    </shape>
+
+  </item>
+  <item>
+    <shape>
+      <gradient
+          android:angle="270"
+          android:endColor="#2688c9"
+          android:startColor="@color/colorAccent"/>
+      <stroke
+          android:width="4dp"
+          android:color="@color/colorAccent"/>
+      <corners
+          android:radius="7dp"/>
+      <padding
+          android:bottom="10dp"
+          android:left="10dp"
+          android:right="10dp"
+          android:top="10dp"/>
+    </shape>
+  </item>
+</selector>
